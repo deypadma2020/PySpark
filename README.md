@@ -10,7 +10,7 @@ This repo is designed as a **hands-on guide** to start learning PySpark from scr
 
 ---
 
-## 📌 What You’ll Learn
+## 📌 What You’ll Learn here
 
 * 🔹 Setting up PySpark environment
 * 🔹 Creating RDDs & DataFrames
