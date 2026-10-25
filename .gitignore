@@ -208,3 +208,7 @@ __marimo__/
 
 
 pyspark_venv/
+# conda create -p F:/PANTA/PySpark/pyspark_venv python=3.10 -y
+# pip install -r requirements.txt
+# python -m pip install ipykernel
+# python -m ipykernel install --user --name pyspark_venv --display-name "Python (pyspark_venv)"
